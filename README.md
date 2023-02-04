@@ -17,7 +17,6 @@ Demo WhatsApp API ChatBot using [alvochat API](https://alvochat.com/?utm_source=
 # Getting Started
 - alvochat account is required to run examples. Log in or Create Account if you don't have one [alvochat.com](https://alvochat.com/?utm_source=github&utm_medium=python&utm_campaign=chatbot).
 - go to your instance or Create one if you haven't already.
-- Scan Qr and make sure that instance Auth Status : authenticated
 
 ## install flask
 the WebHook URL must be provided for the server to trigger our script for incoming messages. we will deployed the server using the FLASK microframework. The FLASK server allows us to conveniently process incoming requests.
